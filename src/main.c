@@ -1,5 +1,6 @@
 #include "wasm4.h"
 
+//Also defined as MOUSE_X in wasm4.h
 #define MOUSE_MEMORY 0x001a;
 
 struct mouse_data {
